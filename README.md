@@ -1,6 +1,8 @@
 # RandomNumberGenerator
 A very simple random number generator built for Windows using PyQt5. 
 
+![GIF showcase of RNG](showcase.gif)
+
 ## Usage
 You can download the ready-built executable from the [Releases](https://github.com/th3dr3amIsStillAlive/RandomNumberGenerator/releases) page. Be aware that Windows SmartScreen might prompt a warning as the executable is not signed with a certificate. To run anyway, click "More Info" and then "Run Anyway". If you prefer, you can build it from source as follows:
 
